@@ -3,3 +3,4 @@
 possession of good source code, must be in want of a version control
 system." (@MikeMcQuaid) sameer
 Test to check how the "pulling changes from another repository works"
+demo for 'how to merge a branch into another'
